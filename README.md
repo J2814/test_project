@@ -1,1 +1,1 @@
-ECHO is on.
+Я всё сделал (git hub desktop больше нравится чем cmd конечно...)
